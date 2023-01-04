@@ -1,0 +1,15 @@
+.istrue .answer-content{
+    font-weight: bold;
+    background-color: yellow;
+    line-height: 1;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.answer-item {
+    margin-right: 100px;
+}

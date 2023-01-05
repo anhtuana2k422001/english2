@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(133, 189, 189);
+}
+
 .istrue .answer-content{
     font-weight: bold;
     background-color: yellow;
@@ -12,4 +16,25 @@
 
 .answer-item {
     margin-right: 100px;
+}
+
+.text_viet{
+    color:rgb(2, 20, 1);
+    font-size: 14px !important;
+}
+
+
+.vietnamese{
+    background-color: rgb(112, 230, 108);
+    font-size: 17px;
+}
+
+
+.question{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.answer-content{
+    font-size:large;
 }
